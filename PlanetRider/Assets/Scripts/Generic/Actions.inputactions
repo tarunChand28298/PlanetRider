@@ -1,0 +1,44 @@
+{
+    "name": "Actions",
+    "maps": [
+        {
+            "name": "PlayerMovement",
+            "id": "4b260ce5-b186-4b18-8330-547966b2dfc1",
+            "actions": [
+                {
+                    "name": "Launch",
+                    "type": "Button",
+                    "id": "9597af6e-f417-4b8c-96f1-c046dbe82809",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8ecf21cb-de40-49bd-8748-756f86115285",
+                    "path": "<Touchscreen>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Launch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9e7b9686-dab2-442c-a950-6c21ee58d8d7",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Launch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
